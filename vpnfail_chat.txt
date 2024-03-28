@@ -2258,3 +2258,8 @@ vmess://03fcc618-b93d-6796-6aed-8a38c975d581@198.41.202.5:443/?type=ws&encryptio
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@104.26.9.202:443/?type=ws&encryption=auto&host=vip2323.cfd&path=%2Flinkvws&security=tls&sni=vip2323.cfd#%40ShadowProxy66
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@104.21.32.223:443/?type=ws&encryption=auto&host=muriel.makeup&path=%2Flinkvws&security=tls&sni=muriel.makeup#%40ShadowProxy66
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@188.114.96.6:443/?type=ws&encryption=auto&host=muriel.makeup&path=%2Flinkvws&security=tls&sni=muriel.makeup#%40ShadowProxy66
+vless://a95f123e-9a80-43c9-bb38-080e86cfa1bf@mc.myaparat.sbs:2010?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%AC%F0%9F%87%A7hamrahaval+%28ChPR%29
+vless://a95f123e-9a80-43c9-bb38-080e86cfa1bf@eng.myaparat.sbs:2045?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%F0%9F%87%AC%F0%9F%87%A7England+%28ChPR%29
+vless://a95f123e-9a80-43c9-bb38-080e86cfa1bf@de.myaparat.sbs:2045?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%F0%9F%87%A9%F0%9F%87%AAGermany+%28ChPR%29
+vless://a95f123e-9a80-43c9-bb38-080e86cfa1bf@fr.myaparat.sbs:2045?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%F0%9F%87%AB%F0%9F%87%B7France+%28ChPR%29
+vless://a95f123e-9a80-43c9-bb38-080e86cfa1bf@mp.myaparat.sbs:2045?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%A9%F0%9F%87%AAhamrahaval+%28ChPR%29
